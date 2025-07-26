@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day1HelloJava.iml" filepath="$PROJECT_DIR$/Day1HelloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-roadmap.iml" filepath="$PROJECT_DIR$/java-roadmap.iml" />
     </modules>
   </component>
 </project>
